@@ -1,2 +1,2 @@
-#1/bin/bash
-echo "Schppl"
+#!/bin/bash
+echo "School"
